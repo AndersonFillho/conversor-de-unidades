@@ -9,7 +9,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/AndersonFillho/conversor-de-unidades">
-    <img src="img/logo.png" alt="Logo" height="350">
+    <img src="img/logo1.png" alt="Logo" height="350">
   </a>
 
   <h3 align="center">Unit Converter JS</h3>
